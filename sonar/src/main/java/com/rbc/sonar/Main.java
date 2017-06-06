@@ -5,9 +5,7 @@ package com.rbc.sonar;
  */
 public class Main {
 
-    private static final String PASSWORD = "mypassword";
-
     public static void main(String[] args) {
-        System.out.println(PASSWORD);
+        
     }
 }
